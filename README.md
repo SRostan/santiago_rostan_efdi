@@ -9,7 +9,7 @@ Este es un template para el repositorio personal de los estudiantes durante la *
 Antes de empezar, asegúrate de tener instalados:
 
 - **Git** → [Descargar Git](https://git-scm.com/downloads)  
-- **Python 3** → [Descargar Python](https://www.python.org/downloads/)  
+- **Python 3** → [Descargar Python](https://www.ppython.org/downloads/)  
 
 ---
 
@@ -42,7 +42,6 @@ python -m pip install --upgrade pip
 ## 📦 Instalar MkDocs (si no lo tienes instalado)
 
 En caso de que MkDocs no esté disponible en tu sistema, instálalo con:
-
 ```bash
 pip install mkdocs mkdocs-material
 ```

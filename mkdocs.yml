@@ -4,8 +4,8 @@ site_description: Especialización en Fabricación Digital e Innovación
 site_author: Santiago Rostán
 copyright: Copyleft 2026 "Santiago Rostán" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
-site_url: https://mathira.github.io/efdi-template/
-repo_url: https://github.com/mathira/efdi-template
+site_url: https://srostan.github.io/santiago_rostan_efdi/
+repo_url: https://github.com/SRostan/santiago_rostan_efdi
 
 nav:
   - Home: index.md
