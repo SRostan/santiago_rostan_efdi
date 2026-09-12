@@ -1,6 +1,6 @@
 # Sobre mi
 
-!<img src="../images/about/FotoWeb.jpg" alt="Santiago Rostán" width="250" style="border-radius: 10px;">
+![Santiago Rostán](../images/about/FotoWeb.jpg){ width="250" style="border-radius: 10px;" }
 
 
 Mi nombre es Santiago Rostán Talasimov, tengo 34 años, nací en Mercedes, Soriano, pero crecí en el campo cerca de Fray Bentos.
