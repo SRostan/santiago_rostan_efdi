@@ -27,7 +27,7 @@ extra:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/santirostala
-    - icon: fontawesome/brands/x-twitter
+    - icon: https://fontawesome.com/icons/brands/solid/x-twitter
       link: https://x.com/santir13
     - icon: fontawesome/brands/linkedin
       link: "https://www.linkedin.com/in/santiago-rostan-talasimov-aa537992/"
