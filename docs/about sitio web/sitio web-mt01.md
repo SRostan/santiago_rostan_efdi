@@ -4,12 +4,11 @@ Este sitio está en construcción &#128522. Se irá agregando información sobre
 Tutoriales utilizados en la creación de este sitio:
 
 Los tutoriales proporpcionados por docentes de La EFDI fueron utilizados.
-Luego, se utilizó Antigravity para consultas puntuales.
+Luego, se utilizó Antigravity para consultas puntuales o cuando los tutoriales no pudieron ser seguidos al detalle
 
 Lenguajes utilizados para la construcción de este sitio:
 
-mkdocs
-HTML
+mkdocs - se decidió utilizarlo porque los docentes de la especialización lo recomiendan y por la gran cantidad de documentación que tiene y su buen manejo de Github
 
 Programas utilizados para la construcción de este sitio web
 
