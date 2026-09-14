@@ -12,6 +12,7 @@ nav:
   - Sobre mi: about/me.md
   - Sobre el sitio: about sitio web/sitio web-mt01.md
   - Tecnología y Fabricación:
+      - MT01: tecnicos/mt01.md
       - Bloque 1 MT02-MT03: tecnicos/mt02-03.md
   - Diseño:
       - Bloque 1 MD01: diseno/md01.md
